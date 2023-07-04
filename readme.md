@@ -1,7 +1,7 @@
 # Rachel Rice's Portfolio
 Portfolio site for Rachel Rice.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://rachel-rice.netlify.app/
 
 ![alt tag](images/screenshot-landing.png)
 
@@ -10,7 +10,6 @@ Portfolio site for Rachel Rice.
 **Tech used:** HTML, CSS, SASS, JavaScript
 
 Used a html5 template for the portfolio site and edited per my needs. Added examples of work to the site portfolio section.
-
 
 
 ## Lessons Learned:
