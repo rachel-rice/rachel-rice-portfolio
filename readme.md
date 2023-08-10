@@ -1,7 +1,7 @@
 # Rachel Rice's Portfolio
 Portfolio site for Rachel Rice.
 
-**Link to project:** https://rachel-rice.netlify.app/
+**Link to project:** https://rachelrice.netlify.app/
 
 ![alt tag](images/screenshot-landing.png)
 
