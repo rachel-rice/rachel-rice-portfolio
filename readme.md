@@ -7,9 +7,9 @@ Portfolio site for Rachel Rice.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, SASS, JavaScript
+**Tech used:** HTML, CSS, SCSS, JavaScript
 
-Used a html5 template for the portfolio site and edited per my needs. Added examples of work to the site portfolio section.
+Modified off of HTML5up.net template.
 
 
 ## Lessons Learned:
