@@ -1,5 +1,5 @@
 # Rachel Rice's Portfolio
-Portfolio site for Rachel Rice.
+Portfolio site for Rachel Rice highlighting recent works and info about Rachel Rice and what is offered.
 
 **Link to project:** https://rachelrice.netlify.app/
 
@@ -9,9 +9,9 @@ Portfolio site for Rachel Rice.
 
 **Tech used:** HTML, CSS, SCSS, JavaScript
 
-Modified off of HTML5up.net template.
+Main HTML file with JavaScript for functionality.
 
 
 ## Lessons Learned:
 
-Learned to commit early. Had to redo several sections because I did not commit early.
+A portfolio is ever changing. Commit early and keep it updated
